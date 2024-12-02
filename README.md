@@ -1,1 +1,1 @@
-# ML_projects
+A content based movie recommender system using cosine similarity
